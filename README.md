@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji-i" alt="balaji-i" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Data Analysis**
+- 🔭 I’m currently working on **Employee Time Tracker**
 
 - 🌱 I’m currently learning **Data Analyst**
 
