@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Employee Time Tracker**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Scientist**
 
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
